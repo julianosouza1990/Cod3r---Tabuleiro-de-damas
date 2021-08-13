@@ -1,0 +1,11 @@
+.line{
+  display: flex; 
+  width: 100%;
+  flex-wrap: wrap;
+}
+.piece{
+  height: 80px;
+  width: 80px;
+  background: #000;
+  margin: 1px;
+}
